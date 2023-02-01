@@ -6,15 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yingjingyang/actionTest.git"
-  },
+  "repository": "git+https://github.com/yingjingyang/actionTest.git",
   "keywords": [],
-  "author": "",
+  "author": "yingjingyang <longdacao2@163.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yingjingyang/actionTest/issues"
   },
-  "homepage": "https://github.com/yingjingyang/actionTest#readme"
+  "homepage": "https://github.com/yingjingyang/actionTest#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
 }
