@@ -9,6 +9,8 @@ on:
 permissions:
   checks: write
   contents: write
+  pull-requests: write
+  actions: write
 jobs:
   lint:
     name: Main
