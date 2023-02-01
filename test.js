@@ -1,8 +1,8 @@
 var str = 'World'
 
 function main(){
-    console.log("hello" + str}
-    
+    console.log("hello" + str}  
+
 }
 
 main()
